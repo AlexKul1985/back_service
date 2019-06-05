@@ -1,0 +1,17 @@
+{
+    "name": "test/back",
+    "description": "test back",
+    "authors": [
+        {
+            "name": "Alex Kul",
+            "email": "alexkul1985sanshoy@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\": "vendor/core"
+        }
+    }
+}
